@@ -1,0 +1,521 @@
+[03-Oct-2020 23:53:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.0.lin' (tried: /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/ixed.7.0.lin (/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/ixed.7.0.lin: undefined symbol: _zval_ptr_dtor), /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/ixed.7.0.lin.so (/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/ixed.7.0.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Oct-2020 18:53:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:24
+Stack trace:
+#0 /home4/chamathkaara/covid-app.site/covid-app/api/user/register.php(15): Database->connect()
+#1 {main}
+  thrown in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 24
+[03-Oct-2020 18:55:53 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Oct-2020 18:56:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Oct-2020 22:52:13 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Oct-2020 22:53:04 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Oct-2020 22:53:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[03-Oct-2020 22:56:29 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 08:50:30 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 08:54:04 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 08:54:19 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 08:55:48 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 08:59:59 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 10:22:02 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 10:22:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 11:24:29 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 18:43:21 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 18:44:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 18:46:10 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 18:56:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 19:32:26 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 19:32:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 20:13:06 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 20:37:59 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:00:56 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 3
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 4
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 5
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 7
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 8
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 2
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 3
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 4
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 6
+[04-Oct-2020 21:08:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 7
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 3
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 4
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 5
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 7
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/config/Database.php on line 8
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 2
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 3
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 4
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 6
+[04-Oct-2020 21:09:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 7
+[04-Oct-2020 21:10:25 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:10:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 2
+[04-Oct-2020 21:10:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 3
+[04-Oct-2020 21:10:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 4
+[04-Oct-2020 21:10:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 6
+[04-Oct-2020 21:10:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 7
+[04-Oct-2020 21:10:53 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:10:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 2
+[04-Oct-2020 21:10:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 3
+[04-Oct-2020 21:10:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 4
+[04-Oct-2020 21:10:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 6
+[04-Oct-2020 21:10:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chamathkaara/covid-app.site/covid-app/config/Database.php:2) in /home4/chamathkaara/covid-app.site/covid-app/models/User.php on line 7
+[04-Oct-2020 21:11:46 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:12:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:15:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:19:56 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 21:21:26 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:18:27 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:24:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:26:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:29:25 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:38:43 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:41:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:43:48 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:45:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:46:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:58:41 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:58:54 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[04-Oct-2020 23:59:25 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:11:03 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:11:10 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:12:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:14:43 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:16:25 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:17:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:20:54 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:23:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:23:51 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:29:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:31:49 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:51:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 00:56:31 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:09:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:16:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:17:56 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:20:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:22:02 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:22:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:23:47 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:43:53 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:47:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:48:56 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 01:55:19 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 02:03:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 02:08:08 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 02:10:37 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 02:31:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 02:34:18 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 02:54:12 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 03:02:06 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 04:46:27 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 05:56:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 06:41:53 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 06:58:47 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 08:11:28 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 08:25:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 08:29:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 08:34:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[05-Oct-2020 08:40:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 04:48:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 06:40:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 08:18:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 11:24:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 11:26:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 16:42:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 17:43:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 18:21:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 19:35:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 19:36:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 19:36:43 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 19:37:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[08-Oct-2020 19:41:56 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
